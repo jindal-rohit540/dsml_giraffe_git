@@ -1,0 +1,1 @@
+# This is the start of func2.py
